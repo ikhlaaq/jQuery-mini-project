@@ -1,0 +1,35 @@
+*{
+    box-sizing: content-box;
+    margin: 0;
+}
+body{
+    background-color: #c4ffd7;
+}
+h1 {
+    color: #fff;
+    text-shadow: 2px 2px blue;
+    text-align: center;
+    margin-top: 3%;
+    background: linear-gradient(green, yellow, red)
+    
+}
+
+form {
+    margin-top: 3%;
+    text-align: center;
+}
+.hideShowbtn {
+    color: #fff;
+    margin-top: 3%;
+    text-align: center;
+    padding: 30px;
+    background: linear-gradient(to right, orange, yellow, green, blue, indigo, violet);
+}
+.ta-bort-mig {
+    color: #fff;
+    margin-top: 3%;
+    text-align: center;
+    padding: 30px;
+    background: linear-gradient(to right, orange, yellow, green, blue, indigo, violet);
+}
+
